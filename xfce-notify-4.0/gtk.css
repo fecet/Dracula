@@ -45,13 +45,13 @@
 #XfceNotifyWindow progressbar progress {
     min-height: 16px;
     background-image: none;
-    background-color: shade(#282a36, 1.2);
+    background-color: shade(#50fa7b, 1.2);
 }
 
 #XfceNotifyWindow progressbar trough {
     min-height: 16px;
     background-image: none;
-    background-color: #bd93f9;
+    background-color: #282a36;
     border: 1px solid shade(#bd93f9, 0.6);
     border-radius: 1px;
 }
